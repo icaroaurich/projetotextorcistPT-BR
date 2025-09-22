@@ -15,11 +15,13 @@ Feito de fã pra fã, pra todo mundo poder curtir essa obra insana sem travar no
   - Então palavras como `você`, `também` e `remédio` funcionam.  
   - Mas `organização` e `já` tiveram que ser adaptadas.  
 
-- Os **exorcismos** também foram puxados pro `lang.json` → agora estão em PT-BR!  
+- Os **exorcismos** também ficam dentro do código mas mexi para ouxar do `lang.json` 👍.
 
 > Spoiler: Tem exorcismos em Latim... esses eu deixei original porque fica mais legal
 
 ---
+
+- PS: Não tenho a DLC, então não mexi, mas tá tudo no lang.json.
 
 ## 🚀 Como instalar
 
