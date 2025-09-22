@@ -21,7 +21,7 @@ Feito de fã pra fã, pra todo mundo poder curtir essa obra insana sem travar no
 
 ---
 
-- PS: Não tenho a DLC, então não mexi, mas tá tudo no lang.json.
+- PS: Não tenho a DLC, então não mexi, mas tá tudo no `lang.json`.
 
 ## 🚀 Como instalar
 
