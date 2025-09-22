@@ -27,8 +27,9 @@ Feito de fã pra fã, pra todo mundo poder curtir essa obra insana sem travar no
    - `lang.json`  
    - `Data.win`  
 
-2. Substitua pelos arquivos deste repositório. >(Perai que que tô com dificuldade para upar o data.win pq ele é grande)
+2. Substitua pelos arquivos deste repositório.
+> (tô com dificuldade para upar o data.win pq ele é grande)
 
-3. Se o jogo for da Steam, a pasta geralmente fica em:  
+4. Se o jogo for da Steam, a pasta geralmente fica em:  
    ```bash
    C:\Program Files (x86)\Steam\steamapps\common\Textorcist
