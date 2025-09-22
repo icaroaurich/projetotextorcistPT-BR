@@ -5,7 +5,7 @@ Feito de fã pra fã, pra todo mundo poder curtir essa obra insana sem travar no
 
 ---
 
-## 🔎 O que foi traduzido?
+## 📖 O que foi traduzido?
 
 - Os textos do jogo estão em dois lugares:
   - **`Data.win`** → boa parte do conteúdo escondido no código (editado com [UndertaleModTool](https://github.com/krzys-h/UndertaleModTool)).  
@@ -21,7 +21,11 @@ Feito de fã pra fã, pra todo mundo poder curtir essa obra insana sem travar no
 
 ---
 
-- PS: Não tenho a DLC, então não mexi, mas tá tudo no `lang.json`.
+## 🔎 Informações:
+
+- Não tenho a DLC, então não mexi, mas tá tudo no `lang.json`.
+
+- Se você ver coisas ainda em inglês, é pq não terminei, acalma o coração.
 
 ## 🚀 Como instalar
 
